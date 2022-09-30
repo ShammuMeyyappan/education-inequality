@@ -6,3 +6,4 @@ library(bslib)
 education_stats <- read.csv("educationstats.csv")
 
 server <- function(input, output) {
+}
